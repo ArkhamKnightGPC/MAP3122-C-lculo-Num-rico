@@ -1,2 +1,3 @@
-# MAP3122-C-lculo-Num-rico
-Exercícios programa da disciplina MAP3122: Cálculo Numérico oferecida no primeiro semestre de 2021
+# MAP3122: Cálculo Numérico
+
+Esse repositório contém o trabalho desenvolvido para os dois exercícios programa propostos na disciplina MAP3122. O repositório também contém o enunciado fornecido para os dois exercícios.
